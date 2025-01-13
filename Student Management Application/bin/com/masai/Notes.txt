@@ -1,0 +1,4 @@
+Student.java - represents Student Entity in DB
+Start.java -  represents Client App and tests CRUD 
+Connection.java - returns Connection Object to DAO layer for CRUD ops
+StudentDao - all CRUD ops happen here
