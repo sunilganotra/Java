@@ -1,6 +1,6 @@
 public class Characterat {
     public static void main(String[] args) { //printing character at index
-        String Name = "AKARSH JHA";
+        String Name = "Quick brown fox jumps";
         for (int i =0; i<Name.length(); i++){
             System.out.println(Name.charAt(i));
 
